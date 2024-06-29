@@ -26,3 +26,11 @@ import fs from 'node:fs'
 import { launch as Ejecutar } from 'puppeteer'
 ```
 
+## Recomendaciones
+
+- [Documentación JavaScript (MDN)](https://developer.mozilla.org)
+- [Regular Expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Regular_expressions)
+- [Array methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
+- [Map](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map)
+- [Set](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set)
+- [JsDoc](https://www.youtube.com/results?search_query=how+to+use+jsdoc)
