@@ -8,7 +8,7 @@ VER ARCHIVO `basics.js` para envolverte rápidamente en el lenguaje
 
 ### Como instalar un Package Manager
 
-1. Instalar [npm](https://www.npmjs.com/) - *Alternativa: [pnpm](https://pnpm.io/) (es bastante mas ligero y rápido)* *yarn*
+1. Instalar [npm](https://www.npmjs.com/) - *Alternativa: [pnpm](https://pnpm.io/) (es bastante mas ligero y rápido), yarn*
 2. Verificar instalación `npm --version`
 3. Ejecutar `npm init`
 
